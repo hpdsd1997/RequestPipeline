@@ -1,0 +1,14 @@
+D:\Asp.net core\HelloWord\bin\Debug\netcoreapp2.2\HelloWord.deps.json
+D:\Asp.net core\HelloWord\bin\Debug\netcoreapp2.2\HelloWord.runtimeconfig.json
+D:\Asp.net core\HelloWord\bin\Debug\netcoreapp2.2\HelloWord.runtimeconfig.dev.json
+D:\Asp.net core\HelloWord\bin\Debug\netcoreapp2.2\HelloWord.dll
+D:\Asp.net core\HelloWord\bin\Debug\netcoreapp2.2\HelloWord.pdb
+D:\Asp.net core\HelloWord\obj\Debug\netcoreapp2.2\HelloWord.csprojAssemblyReference.cache
+D:\Asp.net core\HelloWord\obj\Debug\netcoreapp2.2\HelloWord.csproj.CoreCompileInputs.cache
+D:\Asp.net core\HelloWord\obj\Debug\netcoreapp2.2\HelloWord.RazorAssemblyInfo.cache
+D:\Asp.net core\HelloWord\obj\Debug\netcoreapp2.2\HelloWord.RazorAssemblyInfo.cs
+D:\Asp.net core\HelloWord\obj\Debug\netcoreapp2.2\HelloWord.AssemblyInfoInputs.cache
+D:\Asp.net core\HelloWord\obj\Debug\netcoreapp2.2\HelloWord.AssemblyInfo.cs
+D:\Asp.net core\HelloWord\obj\Debug\netcoreapp2.2\HelloWord.RazorTargetAssemblyInfo.cache
+D:\Asp.net core\HelloWord\obj\Debug\netcoreapp2.2\HelloWord.dll
+D:\Asp.net core\HelloWord\obj\Debug\netcoreapp2.2\HelloWord.pdb
